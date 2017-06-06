@@ -1,3 +1,3 @@
 function add(id){
-	var a="";
+	var a="git";
 }
