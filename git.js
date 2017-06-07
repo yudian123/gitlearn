@@ -1,3 +1,3 @@
 function add(id){
-	var a="git";
+	var a="git1";
 }
